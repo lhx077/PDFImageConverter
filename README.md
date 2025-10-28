@@ -1,5 +1,7 @@
 # PDF转图片工具 (PDFImageConverter)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lhx077/PDFImageConverter)
+
 一个简单易用的PDF转图片工具，使用C#编写，支持将PDF文档转换为PNG、JPEG或BMP格式的图片。
 
 ## ✨ 特性
