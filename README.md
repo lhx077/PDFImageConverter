@@ -42,7 +42,7 @@ dotnet run
 或运行编译后的可执行文件：
 
 ```bash
-.\bin\Debug\net8.0\PDFImageConverter.exe
+.\PDFImageConverter.exe
 ```
 
 #### 方式二：命令行模式
